@@ -1,0 +1,103 @@
+[
+  {
+    "value": false,
+    "employeecode": "EMPG7290",
+    "department": "BAYUT",
+    "shifthours": "9:00",
+    "w1": {
+      "id" : 1,
+      "color" : "#94e217",
+      "code": "ON",
+      "title":"ON",
+      "is_active" : true,
+      "is_manually_assignable": true
+    },
+    "w2":{
+      "id" : 2,
+      "color" : "#94e217",
+      "code": "ON",
+      "title":"ON",
+      "is_active" : true,
+      "is_manually_assignable": true
+    },
+    "w3":{
+      "id" : 3,
+      "color" : "#94e217",
+      "code": "ON",
+      "title":"ON",
+      "is_active" : true,
+      "is_manually_assignable": true
+    },
+    "w4":{
+      "id" : 4,
+      "color" : "#94e217",
+      "code": "ON",
+      "title":"ON",
+      "is_active" : true,
+      "is_manually_assignable": true
+    },
+    "w5":{
+      "id" : 5,
+      "color" : "#94e217",
+      "code": "ON",
+      "title":"ON",
+      "is_active" : true,
+      "is_manually_assignable": true
+    },
+    "w6":{
+      "id" : 6,
+      "color" : "#94e217",
+      "code": "ON",
+      "title":"ON",
+      "is_active" : true,
+      "is_manually_assignable": true
+    },
+    "w7":{
+      "id" : 6,
+      "color" : "#94e217",
+      "code": "ON",
+      "title":"ON",
+      "is_active" : true,
+      "is_manually_assignable": true
+    }
+  },
+  {
+    "value": false,
+    "employeecode": "EMPG7290",
+    "department": "BAYUT",
+    "shifthours": "9:00",
+    "w1":"ON",
+    "w2":"ON",
+    "w3":"ON",
+    "w4":"ON",
+    "w5":"ON",
+    "w6":"ON",
+    "w7":"ON"
+  },
+  {
+    "value": false,
+    "employeecode": "EMPG7290",
+    "department": "BAYUT",
+    "shifthours": "9:00",
+    "w1":"ON",
+    "w2":"ON",
+    "w3":"ON",
+    "w4":"ON",
+    "w5":"ON",
+    "w6":"ON",
+    "w7":"ON"
+  },
+  {
+    "value": false,
+    "employeecode": "EMPG7290",
+    "department": "BAYUT",
+    "shifthours": "9:00",
+    "w1":"ON",
+    "w2":"ON",
+    "w3":"ON",
+    "w4":"ON",
+    "w5":"ON",
+    "w6":"ON",
+    "w7":"ON"
+  }
+]
