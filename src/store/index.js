@@ -4,6 +4,9 @@ import Vue from "vue";
 import vuex from 'vuex';
 axios.defaults.baseURL = 'https://api.myjson.com/bins/'
 Vue.use(vuex);
+// axios.defaults.headers.common['Authorization'] = AUTH_TOKEN;
+// axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
+
 
 export default new Vuex.Store({
     state :{
@@ -29,5 +32,8 @@ export default new Vuex.Store({
                 commit('setStatus',response.data);
             })
         },
+        login({commit},data){
+            axios.post('login',data)
+        }
     }
 })

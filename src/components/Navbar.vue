@@ -57,7 +57,7 @@
                     {
                         title: 'Home',
                         icon: 'dashboard',
-                        url:'/',
+                        url:'/dashboard',
 
                     },
                     {

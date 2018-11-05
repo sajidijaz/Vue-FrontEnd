@@ -7,6 +7,7 @@ import store from './store'
 import vuex from 'vuex';
 import Default from './layouts/Default'
 import Login from './layouts/login'
+import VueCookies from 'vue-cookies'
 
 Vue.component('default-layout',Default);
 Vue.component('login-layout',Login);
@@ -15,6 +16,8 @@ Vue.component('login-layout',Login);
 import 'vuetify/dist/vuetify.min.css' // Ensure you are using css-loader
 import 'vuetify/src/stylus/main.styl'
 import 'material-design-icons-iconfont/dist/material-design-icons.css' // Ensure you are using css-loader
+
+Vue.use(VueCookies)
 Vue.use(vuex);
 Vue.use(Vuetify)
 
